@@ -41,3 +41,7 @@ https://docs.google.com/spreadsheets/d/1ilYmWDIRF4zajWbO_Pd1RMOs1yFnqnBM/edit?us
 
 ## Newman Report
 ![Summary](https://github.com/fariha28345/Dmoney_API_Testing_Postman/assets/50767962/8ff4aabc-4e79-407b-918c-116ebff47ea1)
+
+## Requirement Traceability Matrix (RTM)
+![RTM](https://github.com/fariha28345/Dmoney_API_Testing_Postman/assets/50767962/f145ce74-a529-4c26-96df-a6b575b9a8ed)
+
